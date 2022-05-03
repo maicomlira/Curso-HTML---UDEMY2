@@ -14,7 +14,7 @@ align-items: center;
 justify-content: space-between;
 }
 .main-navigation {
-    color: rgb(235, 11, 11);
+    color: rgb(255, 255, 255);
     /*display: none;*/
     position: fixed;
     height: 100%;
